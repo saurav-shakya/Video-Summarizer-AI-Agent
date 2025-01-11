@@ -32,7 +32,7 @@ def process_with_retry(processed_video, max_attempts=3):
     raise Exception("Max retry attempts reached")
 
 st.set_page_config(
-    page_title="Video Summizer AI Agent",
+    page_title="Video Summizer AI Agent ",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -205,7 +205,7 @@ if video_file:
         # Chat/Query Section
         st.markdown("""
             <div class="neo-container">
-                <h3 style="color: white; margin-bottom: 1rem;">🤖 Chat with Video AI</h3>
+                <h3 style="color: white; margin-bottom: 1rem;">🤖 Chat with Video AI Agent</h3>
                 <p style="color: rgba(255,255,255,0.7);">Ask any question about the video content</p>
             </div>
         """, unsafe_allow_html=True)
