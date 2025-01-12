@@ -1,9 +1,10 @@
-# Video Summarizer AI Agent
-
-> **Transform videos into summaries and code snippets using Gemini 2.0**
-
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)  
 ![Streamlit](https://img.shields.io/badge/streamlit-latest-red.svg)  
+
+---
+
+## 🎥 Live Product Demo
+[![Watch the Video](https://img.shields.io/badge/YouTube-Demo-red)](https://www.youtube.com/watch?v=QeuKTJ-pk_A&t=5s)
 
 ---
 
@@ -116,6 +117,3 @@ We welcome contributions to enhance the functionality of this project! Here's ho
 
 **Saurav Shakya**  
 GitHub: [@saurav-shakya](https://github.com/saurav-shakya)
-
----
-
